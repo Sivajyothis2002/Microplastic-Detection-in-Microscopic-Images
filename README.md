@@ -206,31 +206,23 @@ The application provides:
 
 ---
 
-# 📷 Sample Output
+## 📸 Screenshots
 
-> Add screenshots inside the `screenshots/` folder and update this section.
-
-Example:
-
-```
-screenshots/
-    home.png
-    output.png
-```
-
-Then include them like this:
-
-```markdown
-## Home
+### Home Page
 
 ![Home](screenshots/home.png)
 
-## Detection Result
+### Upload Image
 
-![Output](screenshots/output.png)
-```
+![Upload](screenshots/upload.png)
 
----
+### Detection Result
+
+![Detection](screenshots/detection.png)
+
+### Detected Object Count
+
+![Count](screenshots/count.png)
 
 # 🚀 Future Work
 
